@@ -1,3 +1,5 @@
+DATASET: https://www.kaggle.com/datasets/swaptr/layoffs-2022
+
 -- Exploratory Data Analysis
 
 SELECT company, SUM(total_laid_off)
